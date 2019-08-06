@@ -1,4 +1,8 @@
 ## Welcome to My SFDX Resources:
 
 
-<iframe src="https://snugsfbay.github.io/SFDX_Dev_Admin/SFDX%20Intro.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+### [Introduction to SFDX for Customer Orgs]("https://snugsfbay.github.io/SFDX_Dev_Admin/SFDX%20Intro.pdf")
++ Using Sandboxes
++ Creating packages with Salesforce GUI
++ Working with orgs you can audit and monitor
++ Holistic approach to testing and user support
